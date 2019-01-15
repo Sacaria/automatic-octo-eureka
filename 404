@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+
+    <HTMLButtonElement.accessKey>
+
+    <title>Document</title>
+</head>
+<body>
+
+<h2> 404 page non trouvée, baby </h2>
+
+
+<img class="404 baby"
+src="https://i.ytimg.com/vi/TXzC1Oo-bTM/maxresdefault.jpg">
+
+<ul>
+<li> stop meeto </li>
+<li> vive macron </li>
+</ul>
+
+<a href="https://github.com/Sacaria">
+
+<input class="back styled"
+       type="button"
+       value="Retour"
+       
+
+
+       />
+</a>
+
+</body>
+
+
+
+</html>
